@@ -1,2 +1,2 @@
 # hello-world
-It' training repository for work woth PowerShall commands -second version
+It' training repository for work with PowerShall commands -second version
